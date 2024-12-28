@@ -1,6 +1,6 @@
 # Hi there, I'm Naman Goyal 👋
 
-[//]: #![GitHub Profile Banner](https://yourbannerimageurl.com) <!-- Add a custom banner image link or comment this line if not available -->
+[//]: # ![GitHub Profile Banner](https://yourbannerimageurl.com) <!-- Add a custom banner image link or comment this line if not available -->
 
 ## 🚀 About Me
 
