@@ -1,10 +1,10 @@
-# Hi there, I'm [Naman Goyal] 👋
+# Hi there, I'm Naman Goyal 👋
 
 ![GitHub Profile Banner](https://yourbannerimageurl.com) <!-- Add a custom banner image link or comment this line if not available -->
 
 ## 🚀 About Me
 
-🎓 **Student** | 💻 **Aspiring [Field/Role]** | 🌟 **Passionate about [Area of Interest]**
+🎓 **Student** |🌟 **Passionate about Mathematics**
 
 I am a fresher at Indian Institute of Technology , Delhi  with a passion for problem solving , mathematics  , computer science. I enjoy learning new technologies and applying my skills to solve real-world challenges.
 
@@ -15,13 +15,13 @@ I am a fresher at Indian Institute of Technology , Delhi  with a passion for pro
 ### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![flask](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
