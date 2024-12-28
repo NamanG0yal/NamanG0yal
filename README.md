@@ -55,7 +55,7 @@ Here are some of the projects I’ve been working on:
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namang0yal)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-FF5722?logo=instagram&logoColor=white)](https://www.instagram.com/namang0yal/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 ---
@@ -63,8 +63,7 @@ Here are some of the projects I’ve been working on:
 ## 🌱 Fun Facts
 
 - 🌎 I love exploring new places and cultures.
-- 🎨 In my free time, I enjoy sketching and graphic design.
-- 📚 I’m currently reading [Book Name or Topic].
+- 🎨 In my free time, I enjoy solving some mathematics problems and talking to people.
 
 ---
 
