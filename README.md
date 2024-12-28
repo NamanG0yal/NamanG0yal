@@ -34,30 +34,27 @@ I am a fresher at Indian Institute of Technology , Delhi  with a passion for pro
 
 Here are some of the projects I’ve been working on:
 
-### [Project Name 1](https://github.com/yourusername/project-name-1)
-- 🚀 **Tech Stack:** Python, Flask, PostgreSQL
-- 📖 **Description:** A brief summary of the project, e.g., "A web application that helps users track their fitness goals."
+### [PointOfSalesSytem](https://github.com/NamanG0yal/PointOfSalesSystem)
+- 🚀 **Tech Stack:** Python, Flask, PostgreSQL  html , javascript , css,bootstrap
+- 📖 **Description:** A web application which serves the purpose of a point of sales system .
 
-### [Project Name 2](https://github.com/yourusername/project-name-2)
-- 🚀 **Tech Stack:** React, Node.js, MongoDB
-- 📖 **Description:** "A full-stack application that simplifies task management with real-time collaboration features."
+### [CP setup](https://github.com/NamanG0yal/CP-setup)
+- 🚀 **Tech Stack:** batchfile
+- 📖 **Description:** A simple setup to automate some of the repetitive tasks during competitive coding by writing scripts .
 
-### [Project Name 3](https://github.com/yourusername/project-name-3)
-- 🚀 **Tech Stack:** Machine Learning, TensorFlow, Python
-- 📖 **Description:** "A machine learning model that predicts house prices based on various features."
 
 ---
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=NamanG0yal&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NamanG0yal&layout=compact&theme=radical)
 
 ---
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourlinkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namang0yal)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?logo=google-chrome&logoColor=white)](https://yourportfolio.com)
 [![Email](https://img.shields.io/badge/-Email-EA4335?logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
