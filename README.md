@@ -19,9 +19,8 @@ I am a fresher at Indian Institute of Technology , Delhi  with a passion for pro
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
 
 ### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
-![flask](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+
+![flask](https://img.shields.io/badge/-Flask-092E20?logo=flask&logoColor=white)
 
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
