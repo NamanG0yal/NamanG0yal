@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Naman Goyal] 👋
 
 ![GitHub Profile Banner](https://yourbannerimageurl.com) <!-- Add a custom banner image link or comment this line if not available -->
 
@@ -6,7 +6,7 @@
 
 🎓 **Student** | 💻 **Aspiring [Field/Role]** | 🌟 **Passionate about [Area of Interest]**
 
-I am a [Your Current Status, e.g., "final-year Computer Science student at XYZ University"] with a passion for [key interests, e.g., "building scalable web applications, machine learning, and problem-solving"]. I enjoy learning new technologies and applying my skills to solve real-world challenges.
+I am a fresher at Indian Institute of Technology , Delhi  with a passion for problem solving , mathematics  , computer science. I enjoy learning new technologies and applying my skills to solve real-world challenges.
 
 ---
 
