@@ -41,7 +41,9 @@ Here are some of the projects I’ve been working on:
 ### [CP setup](https://github.com/NamanG0yal/CP-setup)
 - 🚀 **Tech Stack:** batchfile
 - 📖 **Description:** A simple setup to automate some of the repetitive tasks during competitive coding by writing scripts .
-
+### [Retinal Layer Segmentation](https://github.com/NamanG0yal/Retinal_Segmentation)
+- 🚀 **Tech Stack:** Python , numpy 
+- 📖 **Description:** Writing a shortest distance algorithm to improve the efficiency and accuracy of results predicted by ai model while segmenting retinal layers and detecting RPD etc.
 
 ---
 
